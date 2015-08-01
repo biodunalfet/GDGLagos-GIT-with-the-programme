@@ -1,0 +1,6 @@
+git log --oneline -n 1
+//--one line prints a summarized form of the logs
+//without the author
+
+//-n 1 limits the number of log messages shown
+//with the last being the first
