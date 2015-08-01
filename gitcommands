@@ -4,3 +4,10 @@ git log --oneline -n 1
 
 //-n 1 limits the number of log messages shown
 //with the last being the first
+
+//git branch new_branch_name
+//creates a new branch
+
+//git checkout commit_hash_number_or_branch_name
+//switches to the commit point or the branch noted
+ 
